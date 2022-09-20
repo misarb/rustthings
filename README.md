@@ -18,16 +18,13 @@ Download dependencies
 
 ```bash
   cargo build
-  
+ ```
  ## Contributing
 
 Contributions are always welcome!
-  
-  
-  
-  
-  
-  ## Authors
+feel free to make a PR
+    
+## Authors
 
 - [@misarb](https://github.com/misarb)
 
